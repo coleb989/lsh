@@ -31,6 +31,8 @@
 #ifndef PWENT_H
 #define PWENT_H
 
+//This is a test comment
+
 /* Names of password files. */
 #define MYPWENT_FILENAME     "passdb"
 #define MYPWENT_TMP_FILENAME "passdb.tmp"
